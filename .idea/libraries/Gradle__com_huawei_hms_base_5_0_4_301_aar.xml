@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:base:5.0.4.301@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54ce3752a21d5488e62df9e527b53ecf/jetified-base-5.0.4.301/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1fdf66023c7e63d60e24ef77558851c/jetified-base-5.0.4.301/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1fdf66023c7e63d60e24ef77558851c/jetified-base-5.0.4.301/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1fdf66023c7e63d60e24ef77558851c/jetified-base-5.0.4.301/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/base/5.0.4.301/da39a3ee5e6b4b0d3255bfef95601890afd80709/base-5.0.4.301-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/base/5.0.4.301/da39a3ee5e6b4b0d3255bfef95601890afd80709/base-5.0.4.301-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

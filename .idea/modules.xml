@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hms-push-clientdemo-android.iml" filepath="$PROJECT_DIR$/.idea/modules/hms-push-clientdemo-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaapp/hms-push-clientdemo-android.javaapp.iml" filepath="$PROJECT_DIR$/.idea/modules/javaapp/hms-push-clientdemo-android.javaapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinApp/hms-push-clientdemo-android.kotlinapp.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinApp/hms-push-clientdemo-android.kotlinapp.iml" />
+    </modules>
+  </component>
+</project>
